@@ -1,38 +1,44 @@
-The UFO By radjaa
+# The UFO By radjaa
 
-Deskripsi:
-The UFO adalah sebuah game sederhana dengan gaya retro pixel art di mana pemain mengendalikan sebuah UFO yang siap untuk memulai petualangan. Game ini dibuat dengan nuansa klasik dan menyenangkan untuk dimainkan.
+![Screenshot](screenshot.png)  
+*Screenshot permainan The UFO saat mulai*
 
-Cara Bermain
+---
 
-Tujuan: Kendalikan UFO dan hindari rintangan atau musuh yang muncul.
+## Deskripsi
 
-Kontrol: Gunakan tombol panah atau klik mouse (sesuai instruksi dalam game) untuk menggerakkan UFO.
+**The UFO** adalah game sederhana bergaya pixel art retro di mana kamu mengendalikan sebuah UFO untuk melewati berbagai rintangan dan tantangan. Game ini menghadirkan gameplay yang mudah dipahami dengan tampilan visual klasik yang menarik.
 
-Mulai: Setelah muncul tulisan "Get Ready!", siap untuk memulai permainan.
+---
 
-Tembakan: Klik tombol yang disediakan (ditandai dengan "SPAS!") untuk menembak.
+## Cara Bermain
 
-Fitur
+- Setelah muncul tulisan **Get Ready!**, kendalikan UFO menggunakan:
+  - **Tombol panah** untuk bergerak (atau klik sesuai instruksi dalam game)
+  - Klik tombol **SPAS!** untuk menembak musuh atau rintangan
+- Hindari benturan dengan objek berbahaya
+- Raih skor tertinggi dengan bertahan dan menembak sebaik mungkin
 
-Grafis pixel art klasik yang menarik.
+---
 
-Gameplay sederhana dan mudah dipahami.
+## Fitur
 
-Efek suara dan animasi yang menyenangkan.
+- Grafis pixel art yang memikat
+- Gameplay simpel dan seru
+- Efek suara dan animasi klasik
 
-Instalasi
+---
 
-Download file executable atau source code dari repository.
+## Instalasi dan Menjalankan Game
 
-Jalankan file The UFO By radjaa.exe (atau file sesuai platform).
+1. Clone repository ini  
+   ```bash
+   git clone https://github.com/radjaaaxp/repo-ufo.git
 
-Mainkan dan nikmati permainan.
+2. Masuk ke direktori game
+   ```bash
+   cd repo-ufo
 
-Pengembangan
-
-Game ini dibuat oleh radjaa dengan tujuan membuat game kecil yang menghibur menggunakan teknik pemrograman sederhana.
-
-Lisensi
-
-Game ini bersifat open-source / freeware
+3. Jalankan executable atau buka file source sesuai platform kamu
+   Jika ada file .exe, cukup klik dua kali
+   Jika berbasis Python/engine lain, ikuti instruksi di file INSTALL.md (jika tersedia)

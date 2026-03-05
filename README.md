@@ -14,7 +14,6 @@
 ## Cara Bermain
 
 - Setelah muncul tulisan **Get Ready!**, kendalikan UFO menggunakan:
-  - **Tombol panah** untuk bergerak (atau klik sesuai instruksi dalam game)
   - Klik tombol **SPAS!** untuk menerbangkan atau melewati rintangan
 - Hindari benturan dengan objek berbahaya
 - Raih skor tertinggi dengan bertahan sebaik mungkin

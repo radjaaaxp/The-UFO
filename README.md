@@ -42,3 +42,15 @@
 3. Jalankan executable atau buka file source sesuai platform kamu
    Jika ada file .exe, cukup klik dua kali
    Jika berbasis Python/engine lain, ikuti instruksi di file INSTALL.md (jika tersedia)
+   
+---
+
+## Kontribusi
+Kontribusi sangat disambut!
+Jika ingin membantu pengembangan game ini, silakan buat issue atau pull request.
+
+**Kontak Untuk pertanyaan atau kolaborasi, hubungi:**
+<br/>
+Email: radjatubagus@gmail.com
+<br/>
+Github: https://github.com/radjaaaxp

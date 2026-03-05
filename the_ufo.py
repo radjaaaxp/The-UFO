@@ -132,7 +132,7 @@ def reset_game():
     bird.rect[1] = SCREEN_HEIGHT / 2  # Reset bird position to the center
 
 # Memuat dan memutar backsound (suara latar)
-background_sound = pygame.mixer.Sound('assets/audio/background_ambient.wav')
+background_sound = pygame.mixer.Sound('assets/audio/background_ambient.ogg')
 background_sound.set_volume(0.2)  # Sesuaikan volume backsound
 
 # Mengubah volume untuk suara 'wing' dan 'hit'
@@ -296,3 +296,4 @@ while True:
     else:
         screen.blit(GAME_OVER_IMAGE, (SCREEN_WIDHT / 2 - GAME_OVER_IMAGE.get_width() / 2, SCREEN_HEIGHT / 2 - GAME_OVER_IMAGE.get_height() / 2))
         pygame.display.update()
+

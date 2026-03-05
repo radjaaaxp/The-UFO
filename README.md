@@ -39,9 +39,8 @@
    ```bash
    cd repo-ufo
 
-3. Jalankan executable atau buka file source sesuai platform kamu
-   Jika ada file .exe, cukup klik dua kali
-   Jika berbasis Python/engine lain, ikuti instruksi di file INSTALL.md (jika tersedia)
+3. Jalankan executable atau buka file source sesuai platform yang sudah
+   berbasis Python, ikuti instruksi di file README.md
    
 ---
 
